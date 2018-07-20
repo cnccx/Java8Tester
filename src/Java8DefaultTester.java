@@ -1,5 +1,3 @@
-package Java8Tester;
-
 public class Java8DefaultTester {
     public static void main(String args[]){
         Vehicle vehicle = new Car();

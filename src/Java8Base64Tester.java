@@ -1,5 +1,3 @@
-package Java8Tester;
-
 import java.util.Base64;
 import java.util.UUID;
 import java.io.UnsupportedEncodingException;

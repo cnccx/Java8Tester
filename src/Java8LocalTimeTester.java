@@ -1,5 +1,3 @@
-package Java8Tester;
-
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.LocalDateTime;
